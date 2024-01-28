@@ -1,4 +1,4 @@
-- 👋 没啥东西
+- 没啥东西
 
 <!---
 J-Z-T-S/J-Z-T-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
